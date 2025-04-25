@@ -8,3 +8,6 @@ Day 4: [Sum calculator](day4.cpp)
 Day 5: [Slope calculator](day5.cpp)  
 Day 6: [positive, negative or zero.](day6.cpp)  
 Day 7: [Integer comparison](day7.cpp)  
+
+
+Project0: [User Bio Generator](project0.cpp)
