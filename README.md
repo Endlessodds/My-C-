@@ -11,4 +11,4 @@ Day 7: [Integer comparison](day7.cpp)
 
 
 Project0: [User Bio Generator](project0.cpp)  
-Project1: [Mini survey Collector](project 1.cpp)
+Project1: [Mini survey Collector](project1.cpp)
