@@ -13,3 +13,4 @@ Day 9: [ASCII Decoder User Input](Day.cpp)
 
 Project0: [User Bio Generator](Project0.cpp)  
 Project1: [Mini survey Collector](Project1.cpp)
+Project2: [User bio generator](Project2.cpp)
