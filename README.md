@@ -9,7 +9,7 @@ Welcome to **My-C++**, a beginner-friendly collection of daily practice files an
   
 | Day    |               Topic            |        File          |  
 |================================================================|  
-| Day 1  | Hello, World!                  | [day1.cpp](day1.cpp) |  
+| Day 1  | Hello, World!                  | [Hello, World! ](day1.cpp) |  
 | Day 2  | Comments                       | [Day2.cpp](Day2.cpp) |  
 | Day 3  | User Inputs                    | [Day3.cpp](Day3.cpp) |  
 | Day 4  | Sum Calculator                 | [Day4.cpp](Day4.cpp) |  
@@ -19,7 +19,7 @@ Welcome to **My-C++**, a beginner-friendly collection of daily practice files an
 | Day 8  | `sizeof` Operator              | [Day8.cpp](Day8.cpp) |  
 | Day 9  | ASCII Decoder (User Input)     | [Day9.cpp](Day9.cpp) |  
 | Day 10 | Introduction to Operators      | [Day10.cpp](Day10.cpp) |  
-  
+| Day 11 | Datatypes                      | [Datatypes](Day11final.cpp)
 ---  
   
 ## 🚀 Mini Projects  
@@ -33,6 +33,7 @@ Welcome to **My-C++**, a beginner-friendly collection of daily practice files an
 | Project 4 | Temperature Converter         | [project4.cpp](project4.cpp) |  
 | Project 5 | Age in Days, Weeks & Months   | [project5.cpp](project5.cpp) |  
 | Project 6 | Remainder of Division         | [project6.cpp](project6.cpp) |  
+
   
   
 ---  
