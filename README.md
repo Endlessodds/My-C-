@@ -19,7 +19,12 @@ Welcome to **My-C++**, a beginner-friendly collection of daily practice files an
 | Day 8  | `sizeof` Operator              | [Day8.cpp](Day8.cpp) |  
 | Day 9  | ASCII Decoder (User Input)     | [Day9.cpp](Day9.cpp) |  
 | Day 10 | Introduction to Operators      | [Day10.cpp](Day10.cpp) |  
-| Day 11 | Datatypes                      | [Datatypes](Day11final.cpp)
+| Day 11 | Datatypes                      | [Datatypes](Day11final.cpp)  
+| >>>>>>>| Integer types                  | [Integer types](Day11-00.cpp)| 
+| >>>>>>>| float types                    | [float types](Day11-01.cpp)|  
+| >>>>>>>| char types                     | [char types](Day11-02.cpp)|  
+| >>>>>>>| bool types                     | [bool types](Day11-03.cpp)|  
+ 
 ---  
   
 ## 🚀 Mini Projects  
