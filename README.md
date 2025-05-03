@@ -25,7 +25,7 @@ Welcome to **My-C++**, a beginner-friendly collection of daily practice files an
 | >>>>>>>| char types                     | [char types](Day11-02.cpp)|  
 | >>>>>>>| bool types                     | [bool types](Day11-03.cpp)|  
 | Day 12 | Relational Operators           | [ Relational Operators](Day12-00.cpp)|
-
+| >>>>>> | Logical Operators              | [ Logical Operators](Day12-01.cpp)|
 ---  
   
 ## 🚀 Mini Projects  
