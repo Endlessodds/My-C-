@@ -24,8 +24,9 @@ Welcome to **My-C++**, a beginner-friendly collection of daily practice files an
 | >>>>>>>| float types                    | [float types](Day11-01.cpp)|  
 | >>>>>>>| char types                     | [char types](Day11-02.cpp)|  
 | >>>>>>>| bool types                     | [bool types](Day11-03.cpp)|  
-| Day 12 | Relational Operators           | [ Relational Operators](Day12-00.cpp)|
-| >>>>>> | Logical Operators              | [ Logical Operators](Day12-01.cpp)|
+| Day 12 | Relational Operators           | [ Relational Operators](Day12-00.cpp)|  
+| >>>>>> | Logical Operators              | [ Logical Operators](Day12-01.cpp)|  
+
 ---  
   
 ## 🚀 Mini Projects  
@@ -39,6 +40,9 @@ Welcome to **My-C++**, a beginner-friendly collection of daily practice files an
 | Project 4 | Temperature Converter         | [project4.cpp](project4.cpp) |  
 | Project 5 | Age in Days, Weeks & Months   | [project5.cpp](project5.cpp) |  
 | Project 6 | Remainder of Division         | [project6.cpp](project6.cpp) |  
+| Project 7 | Check Voting Eligibility      | [Project7.cpp](Project7.cpp) |  
+
+
 
   
   
