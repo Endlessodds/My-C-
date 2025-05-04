@@ -27,7 +27,9 @@ Welcome to **My-C++**, a beginner-friendly collection of daily practice files an
 | Day 12 | Relational Operators           | [ Relational Operators](Day12-00.cpp)|  
 | >>>>>> | Logical Operators              | [ Logical Operators](Day12-01.cpp)|  
 | Day 13 |            [  if else](Day13-00.cpp)|  
-| >>>>>> |            [  else if](Day13-01.cpp)|
+| >>>>>> |            [  else if](Day13-01.cpp)|  
+| >>>>>> |            [  switch](Day13-02.cpp)| 
+
 
 ---  
   
