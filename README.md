@@ -47,7 +47,7 @@ Welcome to **My-C++**, a beginner-friendly collection of daily practice files an
 | Project 7 | Check Voting Eligibility      | [Project7.cpp](Project7.cpp) |  
 | Project 8 | Check if a Triangle is Valid  | [Project8.cpp](Project8.cpp) |  
 | Project 9 | [Grade Evaluator](Project9.cpp) |  
-
+| Project 10 | [Age Group Categorizer](Project10.cpp) |  
 
 
   
