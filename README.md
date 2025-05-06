@@ -59,6 +59,9 @@ Welcome to **My-C++**, a beginner-friendly collection of daily practice files an
 | Project 19 | [Speed Limit Warning System](Project19.cpp) |  
 | Project 20 | [Print Numbers 1 to N](Project20.cpp) |  
 | Project 21 | [sum of digits](Project21.cpp) |  
+| Project 22 | [reverse a number](Project22.cpp) |  
+
+
 
 
 ---  
