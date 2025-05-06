@@ -61,8 +61,7 @@ Welcome to **My-C++**, a beginner-friendly collection of daily practice files an
 | Project 21 | [sum of digits](Project21.cpp) |  
 | Project 22 | [reverse a number](Project22.cpp) |  
 | Project 23 | [prime number checker](Project23.cpp) |  
-
-
+| Project 24 | [Greatest Common Factor](Project24.cpp) |  
 
 
 ---  
