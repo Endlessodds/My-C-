@@ -66,9 +66,15 @@ Welcome to **My-C++**, a beginner-friendly collection of daily practice files an
 | Project 26 | [password checker with do while](Project26.cpp) |  
 | Project 27 | [Limited login attempt.cpp](Project27.cpp) |  
 | Project 28 | [Multiplication Table](Project28.cpp) |   
-| Project 29 | [Sum of First N Natural Numbers(for loop)](Project29.cpp) |
-| Project 30 | [Factorial of a Number](Project30.cpp) |
-| Project 31 | [Reverse Counting](Project31.cpp) |
+| Project 29 | [Sum of First N Natural Numbers(for loop)](Project29.cpp) |   
+| Project 30 | [Factorial of a Number](Project30.cpp) |   
+| Project 31 | [Reverse Counting](Project31.cpp) |   
+| Project 32 | [Fibonacci Series](Project32.cpp) |   
+| Project 33 | [Count Digits](Project33.cpp) |   
+| Project 34 | [Square Pattern](Project34.cpp) |   
+| Project 35 | [Print ASCII Values](Project35.cpp) |   
+| Project 36 | [Binary to Decimal](Project36.cpp) |   
+
 
 ---  
   
