@@ -67,6 +67,7 @@ Welcome to **My-C++**, a beginner-friendly collection of daily practice files an
 | Project 27 | [Limited login attempt.cpp](Project27.cpp) |  
 | Project 28 | [Multiplication Table](Project28.cpp) |   
 | Project 29 | [Sum of First N Natural Numbers(for loop)](Project29.cpp) |
+| Project 30 | [Factorial of a Number](Project30.cpp) |
 
 
 ---  
