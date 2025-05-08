@@ -32,6 +32,7 @@ Welcome to **My-C++**, a beginner-friendly collection of daily practice files an
 | >>>>>> |            [Ternary Operator](Day13-03.cpp)|  
 | Day 14 |            |[while, do while and for Loops](Day14-00.cpp)|
 | Day 15 |  Functions                     |[File](Day15-00.cpp)|  
+| >>>>>> |  Void Functions                |[File](Day15-01.cpp)|  
 
   
 ## 🚀 Mini Projects  
