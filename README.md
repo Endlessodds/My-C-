@@ -30,8 +30,9 @@ Welcome to **My-C++**, a beginner-friendly collection of daily practice files an
 | >>>>>> |            [else if](Day13-01.cpp)|  
 | >>>>>> |            [switch](Day13-02.cpp)|  
 | >>>>>> |            [Ternary Operator](Day13-03.cpp)|  
-| Day 14 |            while, do while and for Loops
----  
+| Day 14 |            |[while, do while and for Loops](Day14-00.cpp)|
+| Day 15 |  Functions                     |[File](Day15-00.cpp)|  
+
   
 ## 🚀 Mini Projects  
 ============================================================================  
