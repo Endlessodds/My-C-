@@ -14,13 +14,13 @@ Welcome to **My-C++**, a beginner-friendly collection of daily practice files an
 | Day 3  | User Inputs                    | [Day3.cpp](Day3.cpp) |  
 | Day 4  | Sum Calculator                 | [Day4.cpp](Day4.cpp) |  
 | Day 5  | Slope Calculator               | [Day5.cpp](Day5.cpp) |  
-| Day 6  | Positive, Negative or Zero     | [Day6.cpp](Day6.cpp) | 
+| Day 6  | Positive, Negative or Zero     | [Day6.cpp](Day6.cpp) |  
 | Day 7  | Integer Comparison             | [Day7.cpp](Day7.cpp) |  
 | Day 8  | `sizeof` Operator              | [Day8.cpp](Day8.cpp) |  
 | Day 9  | ASCII Decoder (User Input)     | [Day9.cpp](Day9.cpp) |  
 | Day 10 | Introduction to Operators      | [Day10.cpp](Day10.cpp) |  
-| Day 11 | Datatypes                      | [Datatypes](Day11final.cpp)  
-| >>>>>>>| Integer types                  | [Integer types](Day11-00.cpp)| 
+| Day 11 | Datatypes                      | [Datatypes](Day11final.cpp)|  
+| >>>>>>>| Integer types                  | [Integer types](Day11-00.cpp)|  
 | >>>>>>>| float types                    | [float types](Day11-01.cpp)|  
 | >>>>>>>| char types                     | [char types](Day11-02.cpp)|  
 | >>>>>>>| bool types                     | [bool types](Day11-03.cpp)|  
@@ -30,10 +30,10 @@ Welcome to **My-C++**, a beginner-friendly collection of daily practice files an
 | >>>>>> |            [else if](Day13-01.cpp)|  
 | >>>>>> |            [switch](Day13-02.cpp)|  
 | >>>>>> |            [Ternary Operator](Day13-03.cpp)|  
-| Day 14 |            |[while, do while and for Loops](Day14-00.cpp)|
+| Day 14 |            |[while, do while and for Loops](Day14-00.cpp)|  
 | Day 15 |  Functions                     |[File](Day15-00.cpp)|  
 | >>>>>> |  Void Functions                |[File](Day15-01.cpp)|  
-| >>>>>> |  Functions with parameters---  |[File](Day15-02.cpp)|
+| >>>>>> |  Functions with parameters---  |[File](Day15-02.cpp)|  
                and return values(cont'd)
   
 ## 🚀 Mini Projects  
