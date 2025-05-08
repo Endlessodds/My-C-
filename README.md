@@ -77,6 +77,8 @@ Welcome to **My-C++**, a beginner-friendly collection of daily practice files an
 | Project 34 | [Square Pattern](Project34.cpp) |   
 | Project 35 | [Print ASCII Values](Project35.cpp) |   
 | Project 36 | [Binary to Decimal](Project36.cpp) |   
+| Project37      | [Square and Cube](Project37.cpp) |  
+| Project38      | [Simple Menu Display](Project38.cpp) |  
 
 
 ---  
