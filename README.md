@@ -82,6 +82,7 @@ Welcome to **My-C++**, a beginner-friendly collection of daily practice files an
 | Project 39      | [Even or Odd checker using Functions](Project39.cpp) |  
 | Project 40      | [Factorial using Functions](Project40.cpp) |  
 | Project 41     | [Find Maximum and Minimum in an Array](Project41.cpp) |  
+| Project 42     | [reverse array](Project42.cpp) |  
 
 ---  
   
