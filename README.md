@@ -84,6 +84,7 @@ Welcome to **My-C++**, a beginner-friendly collection of daily practice files an
 | Project 41     | [Find Maximum and Minimum in an Array](Project41.cpp) |  
 | Project 42     | [reverse array](Project42.cpp) |  
 | Project 43    | [Sum and Average of Array Elements](Project43.cpp) |  
+| Project 44     | [Linear Search in an Array](Project44.cpp) |  
 
 ---  
   
