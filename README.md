@@ -85,6 +85,7 @@ Welcome to **My-C++**, a beginner-friendly collection of daily practice files an
 | Project 42     | [reverse array](Project42.cpp) |  
 | Project 43    | [Sum and Average of Array Elements](Project43.cpp) |  
 | Project 44     | [Linear Search in an Array](Project44.cpp) |  
+| Project 45     | [Insert Element at a Specific Position](Project45.cpp) |  
 
 ---  
   
