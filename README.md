@@ -7,12 +7,14 @@
 
 Welcome to **My-C++**, a beginner-friendly collection of daily practice files and small projects to help you learn and build confidence with C++.  
   
+<p align="center">
+  **C++ Practice Logs and Learning Challenges**
 
-<center>#📘 C++ Practice Logs and Learning Challenges</center>
+</p>
 
 
 
-📘 Click to expand C++ Daily Practice Log
+📘 C++ Daily Practice Log
 
 <br>
 
