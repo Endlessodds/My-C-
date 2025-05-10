@@ -8,11 +8,11 @@
 Welcome to **My-C++**, a beginner-friendly collection of daily practice files and small projects to help you learn and build confidence with C++.  
   
 
-### 📘 C++ Daily Practice Log
-## 📚 My C++ 30-Day Learning Challenge
+<center>#📘 C++ Practice Logs and Learning Challenges</center>
 
-<details>
-<summary>📘 Click to expand C++ Daily Practice Log</summary>
+
+
+📘 Click to expand C++ Daily Practice Log
 
 <br>
 
@@ -47,13 +47,13 @@ Welcome to **My-C++**, a beginner-friendly collection of daily practice files an
 | <div align="center">Day 16</div>  | Functions with Return Values                  | [Day16.cpp](Day16.cpp)                             |
 |                                   | └── User-Input Array in C++                    | [Day16-00.cpp](Day16-00.cpp)                       |
 
-</details>
+
 
 
 ## 🚀 Mini Projects
 
-<details>
-<summary>📂 Click to expand Mini Projects List</summary>
+
+📂 Mini Projects List
 
 <br>
 
@@ -107,7 +107,7 @@ Welcome to **My-C++**, a beginner-friendly collection of daily practice files an
 | <div align="center">Project 45</div>  | Insert Element at Specific Position       | [Project45.cpp](Project45.cpp)                        |
 | <div align="center">Project 46</div>  | Delete Element from Specific Position     | [Project46.cpp](Project46.cpp)                        |
 
-</details>
+
 ## 💡 About  
   
 This repository is for anyone starting out with **C++**. Each day covers a small topic or exercise, followed by simple projects using only basic concepts.  
