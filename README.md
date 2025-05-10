@@ -1,5 +1,9 @@
 # 🌟 My-C++  
-*A Beginner's Journey into C++ Programming*  
+*Journey into C++ Programming*  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++ Logo" width="200"/>
+</p>
 
 Welcome to **My-C++**, a beginner-friendly collection of daily practice files and small projects to help you learn and build confidence with C++.  
   
