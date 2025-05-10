@@ -6,17 +6,16 @@
 </p>
 
 Welcome to **My-C++**, a beginner-friendly collection of daily practice files and small projects to help you learn and build confidence with C++.  
-  
-<p align="center">
-  **C++ Practice Logs and Learning Challenges**
+<br>
 
+<p align="center">
+  <strong><u>C++ Practice Logs and Learning Challenges</u></strong>
 </p>
 
-
-
-📘 C++ Daily Practice Log
+### 📘 C++ Daily Practice Log
 
 <br>
+
 
 | <div align="center">**Day**</div> | **Topic**                                     | **File**                                           |
 |:---------------------------------:|-----------------------------------------------|----------------------------------------------------|
