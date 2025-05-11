@@ -112,7 +112,7 @@ Welcome to **My-C++**, a beginner-friendly collection of daily practice files an
 | <div align="center">Project 49</div>  | Search Element in Array                   | [Project49.cpp](Project49.cpp)                        |
 | <div align="center">Project 50</div>  | Even or Odd Counter (in array)            | [Project50.cpp](Project50.cpp)                        |
 | <div align="center">Project 51</div>  | Reverse an Array                          | [Project51.cpp](Project51.cpp)                        |
-
+| <div align="center">Project52</div>   | Find Maximum in an Array                  | [Project52.cpp](Project52.cpp)                        |
 
 
 ## 💡 About  
