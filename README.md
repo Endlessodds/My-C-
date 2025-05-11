@@ -110,6 +110,7 @@ Welcome to **My-C++**, a beginner-friendly collection of daily practice files an
 | <div align="center">Project 47</div>  | Sum of all int elements in array          | [Project47.cpp](Project47.cpp)                        |
 | <div align="center">Project 48</div>  | Frequency of Numbers                      | [Project48.cpp](Project48.cpp)                        |
 | <div align="center">Project 49</div>  | Search Element in Array                   | [Project49.cpp](Project49.cpp)                        |
+| <div align="center">Project 50</div>  | Even or Odd Counter (in array)            | [Project50.cpp](Project50.cpp)                        |
 
 
 
