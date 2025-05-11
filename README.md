@@ -107,7 +107,7 @@ Welcome to **My-C++**, a beginner-friendly collection of daily practice files an
 | <div align="center">Project 44</div>  | Linear Search in an Array                 | [Project44.cpp](Project44.cpp)                        |
 | <div align="center">Project 45</div>  | Insert Element at Specific Position       | [Project45.cpp](Project45.cpp)                        |
 | <div align="center">Project 46</div>  | Delete Element from Specific Position     | [Project46.cpp](Project46.cpp)                        |
-
+| <div align="center">Project 47</div>  | Sum of all int elements in array          | [Project47.cpp](Project47.cpp)                        |
 
 ## 💡 About  
   
@@ -117,15 +117,15 @@ This repository is for anyone starting out with **C++**. Each day covers a small
   
 ## ✅ How to Use  
   
-1. Clone or download the repository.  
+1. Download the repository.  
 2. Compile any `.cpp` file using a C++ compiler:  
-3. Explore, tweak, and learn!  
+3. Explore and learn!  
   
 ---  
   
 ## 🧠 Keep Learning!  
   
-New days and projects are added regularly. Stay curious and keep experimenting! 💻✨  
+New days and projects are added regularly. Stay curious and keep experimenting!  
   
 ---  
   
