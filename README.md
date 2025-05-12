@@ -45,16 +45,16 @@ Welcome to **My-C++**, a beginner-friendly collection of daily practice files an
 | <div align="center">Day 15</div>  | Functions                                     | [Day15-00.cpp](Day15-00.cpp)                       |
 |                                   | ├── Void Functions                             | [Day15-01.cpp](Day15-01.cpp)                       |
 |                                   | └── Functions with Parameters                  | [Day15-02.cpp](Day15-02.cpp)                       |
-| <div align="center">Day 16</div>  | Functions with Return Values                  | [Day16.cpp](Day16.cpp)                             |
-|                                   | └── User-Input Array in C++                    | [Day16-00.cpp](Day16-00.cpp)                       |
+| <div align="center">Day 16</div>  | Functions with Return Values                   | [Day16.cpp](Day16.cpp)                             |
+|                                   | └── User-Input Array in C++                    | [Day17-00.cpp](Day17-00.cpp)                       |
+| <div align="center">Day 17</div>  | Pointer Declaration and Dereferencing          | [Day16.cpp](Day16.cpp)                             |
+|                                   | └── Pointer to Array Elements                    | [Day17-01.cpp](Day17-01.cpp)                       |
 
 
 
 
 ## 🚀 Mini Projects
 
-
-📂 Mini Projects List
 
 <br>
 
