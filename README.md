@@ -118,15 +118,28 @@ Welcome to **My-C++**, a beginner-friendly collection of daily practice files an
 | <div align="center">Project 51</div>  | Reverse an Array                          | [Project51.cpp](Project51.cpp)                        |
 | <div align="center">Project52</div>   | Find Maximum in an Array                  | [Project52.cpp](Project52.cpp)                        |
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 💡 About  
+## - Ever-evolving Projects (EEP)
+
+ <br>
+
+
+| <div align="center">**Ever-evolving Projects (EEP)**</div> | **Topic**                                     | **File**                                           |
+|:---------------------------------:|-----------------------------------------------|----------------------------------------------------|
+| <div align="center">EEP 1</div>   | Calculator                                    | [Calculator.cpp](Calculator.cpp)                   |
+
+
+
+
+## - About  
   
 This repository is for anyone starting out with **C++**. Each day covers a small topic or exercise, followed by simple projects using only basic concepts.  
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
   
-## ✅ How to Use  
+## - How to Use  
   
 1. Download the repository.  
 2. Compile any `.cpp` file using a C++ compiler:  
@@ -135,7 +148,7 @@ This repository is for anyone starting out with **C++**. Each day covers a small
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  
   
-## 🧠 Keep Learning!  
+## - Keep Learning!  
   
 New days and projects are added regularly. Stay curious and keep experimenting!  
   
