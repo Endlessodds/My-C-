@@ -132,10 +132,11 @@ Welcome to **My-C++**, a beginner-friendly collection of daily practice files an
 
 
 
-## - About  
+## - About & Notes
   
 This repository is for anyone starting out with **C++**. Each day covers a small topic or exercise, followed by simple projects using only basic concepts.  
-  
+The concept of Ever-evolving Projects (EEP) is committing long-time on a project until it is fully developed.
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
   
