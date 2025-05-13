@@ -1,3 +1,5 @@
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
 # 🌟 My-C++  
 *Journey into C++ Programming*  
 
@@ -6,7 +8,8 @@
 </p>
 
 Welcome to **My-C++**, a beginner-friendly collection of daily practice files and small projects to help you learn and build confidence with C++.  
-<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 <p align="center">
   <strong><u>C++ Practice Logs and Learning Challenges</u></strong>
@@ -51,6 +54,7 @@ Welcome to **My-C++**, a beginner-friendly collection of daily practice files an
 |                                   | └── Pointer to Array Elements                    | [Day17-01.cpp](Day17-01.cpp)                       |
 
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 ## 🚀 Mini Projects
@@ -119,7 +123,8 @@ Welcome to **My-C++**, a beginner-friendly collection of daily practice files an
   
 This repository is for anyone starting out with **C++**. Each day covers a small topic or exercise, followed by simple projects using only basic concepts.  
   
----  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  
   
 ## ✅ How to Use  
   
@@ -127,12 +132,14 @@ This repository is for anyone starting out with **C++**. Each day covers a small
 2. Compile any `.cpp` file using a C++ compiler:  
 3. Explore and learn!  
   
----  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+ 
   
 ## 🧠 Keep Learning!  
   
 New days and projects are added regularly. Stay curious and keep experimenting!  
   
----  
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+ 
   
 
