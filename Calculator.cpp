@@ -21,7 +21,7 @@ using namespace std;
         }
             
         return num1/num2;
-
+    }
 int main() {
     double num1, num2;
 
