@@ -22,7 +22,7 @@ Welcome to **My-C++**, a beginner-friendly collection of daily practice files an
 
 | <div align="center">**Day**</div> | **Topic**                                     | **File**                                           |
 |:---------------------------------:|-----------------------------------------------|----------------------------------------------------|
-| <div align="center">Day 1</div>   | Hello, World!                                 | [Hello, World!](day1.cpp)                          |
+| <div align="center">Day 1</div>   | Hello, World!                                 | [Hello, World!](CodeDay/Day01.cpp)                          |
 | <div align="center">Day 2</div>   | Comments                                      | [Day2.cpp](Day2.cpp)                               |
 | <div align="center">Day 3</div>   | User Inputs                                   | [Day3.cpp](Day3.cpp)                               |
 | <div align="center">Day 4</div>   | Sum Calculator                                | [Day4.cpp](Day4.cpp)                               |
