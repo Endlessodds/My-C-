@@ -23,14 +23,14 @@ Welcome to **My-C++**, a beginner-friendly collection of daily practice files an
 | <div align="center">**Day**</div> | **Topic**                                     | **File**                                           |
 |:---------------------------------:|-----------------------------------------------|----------------------------------------------------|
 | <div align="center">Day 1</div>   | Hello, World!                                 | [Day1.cpp](CodeDay/Day01.cpp)                          |
-| <div align="center">Day 2</div>   | Comments                                      | [Day2.cpp](CodeDay/Day2.cpp)                               |
-| <div align="center">Day 3</div>   | User Inputs                                   | [Day3.cpp](CodeDay/Day3.cpp)                               |
-| <div align="center">Day 4</div>   | Sum Calculator                                | [Day4.cpp](CodeDay/Day4.cpp)                               |
-| <div align="center">Day 5</div>   | Slope Calculator                              | [Day5.cpp](CodeDay/Day5.cpp)                               |
-| <div align="center">Day 6</div>   | Positive, Negative or Zero                    | [Day6.cpp](CodeDay/Day6.cpp)                               |
-| <div align="center">Day 7</div>   | Integer Comparison                            | [Day7.cpp](CodeDay/Day7.cpp)                               |
-| <div align="center">Day 8</div>   | `sizeof` Operator                             | [Day8.cpp](CodeDay/Day8.cpp)                               |
-| <div align="center">Day 9</div>   | ASCII Decoder (User Input)                    | [Day9.cpp](CodeDay/Day9.cpp)                               |
+| <div align="center">Day 2</div>   | Comments                                      | [Day2.cpp](CodeDay/Day02.cpp)                               |
+| <div align="center">Day 3</div>   | User Inputs                                   | [Day3.cpp](CodeDay/Day03.cpp)                               |
+| <div align="center">Day 4</div>   | Sum Calculator                                | [Day4.cpp](CodeDay/Day04.cpp)                               |
+| <div align="center">Day 5</div>   | Slope Calculator                              | [Day5.cpp](CodeDay/Day05.cpp)                               |
+| <div align="center">Day 6</div>   | Positive, Negative or Zero                    | [Day6.cpp](CodeDay/Day06.cpp)                               |
+| <div align="center">Day 7</div>   | Integer Comparison                            | [Day7.cpp](CodeDay/Day07.cpp)                               |
+| <div align="center">Day 8</div>   | `sizeof` Operator                             | [Day8.cpp](CodeDay/Day08.cpp)                               |
+| <div align="center">Day 9</div>   | ASCII Decoder (User Input)                    | [Day9.cpp](CodeDay/Day09.cpp)                               |
 | <div align="center">Day 10</div>  | Introduction to Operators                     | [Day10.cpp](CodeDay/Day10.cpp)                             |
 | <div align="center">Day 11</div>  | Datatypes Overview                            | [Day11final.cpp](CodeDay/Day11final.cpp)                   |
 |                                   | ├── Integer Types                              | [Day11-00.cpp](CodeDay/Day11-00.cpp)                       |
